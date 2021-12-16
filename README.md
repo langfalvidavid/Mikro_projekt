@@ -14,4 +14,3 @@ A
 B
 1. Le kell tölteni a RaspController nevű applikációt
 2. Bejelentkezünk, felhasználónév: pi | jelszó: raspberry
-3. 
