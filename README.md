@@ -11,6 +11,7 @@ A
 1. Bejelentkezünk a https://www.pitunnel.com/ weboldalon, a már említett bejelentkezési adatokkal
 2. Itt láthatjuk az eszköz specifikációit
 3. Ha bejelentkezünk a Remote Terminálba, távolról tudjuk irányítani az eszkozt felhasználónév: pi | jelszó: raspberry
+
 B
 1. Le kell tölteni a RaspController nevű applikációt
 2. Bejelentkezünk, felhasználónév: pi | jelszó: raspberry
