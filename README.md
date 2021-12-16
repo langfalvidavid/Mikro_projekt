@@ -16,3 +16,4 @@ A
 B
 1. Le kell tölteni a RaspController nevű applikációt
 2. Bejelentkezünk, felhasználónév: pi | jelszó: raspberry
+3. Ugyan úgy láthatjuk itt is a specifikációkat, irányíthatjuk a rendszert, és innen a kameraképet is figyelhetjük.
