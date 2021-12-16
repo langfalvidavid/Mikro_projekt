@@ -7,6 +7,7 @@ Beüzemelés:
 6. Az eszköz innentől kezdve működik.
 
 Használat: 
+
 A
 1. Bejelentkezünk a https://www.pitunnel.com/ weboldalon, a már említett bejelentkezési adatokkal
 2. Itt láthatjuk az eszköz specifikációit
