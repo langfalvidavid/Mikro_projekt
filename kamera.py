@@ -88,12 +88,4 @@ with picamera.PiCamera(resolution='640x480', framerate=24) as camera:
         server.serve_forever()
     finally:
         camera.stop_recording()
-        ez csak egy teszt
-        csak egy nagyon érdekes teszt
-        minndeen kiderül
-        a
-        v
-        b
-        d
-        w
         
